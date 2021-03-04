@@ -1,2 +1,2 @@
-# My Trip Guide
+# Restaurant Searcher
 
