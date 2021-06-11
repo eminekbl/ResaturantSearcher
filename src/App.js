@@ -1,4 +1,4 @@
-import React from "react";
+import React,{useEffect} from "react";
 import { BrowserRouter, Route, Switch, Redirect } from "react-router-dom";
 import pages from "./data/pages";
 import { Context } from "./context/LanguageContext";
