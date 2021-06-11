@@ -157,7 +157,7 @@ export default function Contact() {
               <Row className="mt-3">
                 <Card.Img
                   className="img-fluid w-50  rounded-circle mx-auto d-block"
-                  src="https://media-exp1.licdn.com/dms/image/C4D03AQGed-TsT2Davw/profile-displayphoto-shrink_800_800/0/1517879534368?e=1619654400&v=beta&t=CMiLnIHeFpLj0bAt17BiVk8S57Kw_7KTeWr4zsVWEm0"
+                  src="https://avatars.githubusercontent.com/u/76777299?v=4"
                 />
               </Row>
               <Row className="mx-auto d-block mt-2">
